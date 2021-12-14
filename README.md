@@ -1,4 +1,5 @@
 # EC601 Medical VQA
+[Poster Link](https://github.com/YukoIshikawa/EC601_Medical_VQA/blob/main/EC601_poster.pdf)
 ## Sprint 1
 We defined product mission, MVP and MVP user stories, did comprehensive literature review, and determined technologies for the evaluation and development environment setup.   
 [Presentation Link](https://github.com/YukoIshikawa/EC601_Medical_VQA/blob/main/Medical%20_VQA_sprint1.pdf)
